@@ -1,0 +1,4 @@
+interface:
+  display_name: "Good Idea 捕捉"
+  short_description: "保护正在形成的认识，在用户确认后才沉淀为正式闪念卡片"
+  default_prompt: "使用 $goodidea-capture 开始捕捉我接下来连续表达的想法；在我明确交出话语权前只记录。"

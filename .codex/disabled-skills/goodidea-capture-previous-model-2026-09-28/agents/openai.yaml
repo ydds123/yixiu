@@ -1,0 +1,4 @@
+interface:
+  display_name: "Good Idea 捕捉"
+  short_description: "保护刚出现的认识，保留完整现场，并仅在用户确认后沉淀闪念卡片"
+  default_prompt: "使用 $goodidea-capture 保护我接下来要表达的想法；在我明确交出话语权前先继续听。"
