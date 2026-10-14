@@ -1,5 +1,7 @@
 ---
 status: "已完成"
+topics:
+  - good-idea
 ---
 # 永久卡改名通道（permanent retitle）
 

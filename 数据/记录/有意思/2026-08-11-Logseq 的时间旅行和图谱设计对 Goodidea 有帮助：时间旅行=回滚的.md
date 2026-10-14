@@ -1,3 +1,8 @@
+---
+topics:
+  - good-idea
+---
+
 # Logseq 的时间旅行和图谱设计对 Goodidea 有帮助：时间旅行=回滚的
 
 ## 保存内容

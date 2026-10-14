@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "96974f1780ee4a1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "074387f59e070d64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6bd7811789b844a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数据/记录/母题/Good Idea.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Good Idea"
+            }
+          },
+          {
+            "id": "19ab656f53fe6b6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数据/记录/闪念/2026-10-05-Good Idea 记录的是注意力与问题的交汇.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-10-05-Good Idea 记录的是注意力与问题的交汇"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bd6c4a8da97d1ad0",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b68c0cef4ee81fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b6cbe662340169f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "f883f40e105a2001",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "8f4f7621d35c6b6e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0c9bf78f63408850",
+    "type": "split",
+    "children": [
+      {
+        "id": "d79fc107ff4e701e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa68cd5ffe99a3f5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "数据/记录/行动/2026-10-02-Good Idea 0.1 产品叙事素材与证据图谱.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "0bd7692494072e9a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "数据/记录/行动/2026-10-02-Good Idea 0.1 产品叙事素材与证据图谱.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "01b3a8d47229ee18",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "a31b6aa9456729e1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "db8966ed5650f1af",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "数据/记录/行动/2026-10-02-Good Idea 0.1 产品叙事素材与证据图谱.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "19ab656f53fe6b6d",
+  "lastOpenFiles": [
+    "数据/记录/闪念/2026-10-14-大葱香饼：功能越多越稀释价值.md",
+    "数据/记录/永久卡片/2026-10-13-本机 Agent 靠近我，云端 Agent 离开我.md",
+    "数据/记录/永久卡片/2026-10-13-本机与云端 Agent 的根本差异，在于我是否在场.md",
+    "Grok_Bot_0.70.2.dmg",
+    "未确认 534347.crdownload",
+    "数据/记录/闪念/2026-10-13-产品版 Frankenstein：价值主张受几股拉扯力.md",
+    "数据/记录/外部来源/2026-10-13-为什么Muse团队做出了ChatGPT以来增长最快的AI产品？.md",
+    "数据/记录/有意思/2026-10-12-wecom-cli：企业微信官方 CLI＋Agent Skills.md",
+    "数据/记录/项目/Good Idea/Good Idea 两个核心 Skill 产品定义与需求.md",
+    "数据/记录/外部来源/Good Idea 两个核心 Skill 产品定义与需求.md",
+    "Good Idea 两个核心 Skill 产品定义与需求.md",
+    "数据/记录/项目/Good Idea/已粘贴 2026-10-11 上午11.30.59.textClipping",
+    "Skill 2：发展一个值得继续推敲的认识（修订版 v2） 2026.10.11-10.23.md",
+    "数据/记录/闪念/2026-10-05-Good Idea 记录的是注意力与问题的交汇.md",
+    "未确认 357312.crdownload",
+    "ARTEX_AI自动化渗透测试-v0.3.11.md",
+    "数据/记录/有意思/2026-10-09-卡片笔记法：好的永久笔记的五条标准与自检清单.md",
+    "数据/记录/闪念/2026-10-09-好的永久笔记的五条标准.md",
+    "数据/记录/闪念/2026-09-29-Skill 是 Goodidea 的最小产品形态：以 3.0 为控制层，编排 2.0 与 1.0.md",
+    "数据/记录/有意思/2026-08-31-WikiSkill与现有skill结合实现可进化.md",
+    "数据/记录/有意思/2026-09-23-Palantir 式本体对 AI 的价值：六层机制拆解.md",
+    "数据/记录/行动/2026-10-07-重新辨析闪念转永久卡片的作用与必要性.md",
+    "数据/记录/行动/2026-10-02-打磨并完成 Good Idea 0.1 阶段性产品叙事.md",
+    "数据/记录/有意思/2026-10-08-卡片笔记法：好的永久笔记的五条标准与自检清单.md",
+    "数据/记录/闪念/2026-10-08-好的永久笔记的五条标准.md",
+    "数据/记录/项目/Good Idea/Good Idea.md",
+    "数据/记录/母题/Good Idea 0.1 阶段性母题叙事.md",
+    "数据/记录/项目/Good Idea/Good Idea 0.1 阶段性产品叙事.md",
+    "数据/记录/项目/Good Idea/Good Idea 0.1 产品叙事素材与证据图谱.md",
+    "数据/记录/项目/Good Idea",
+    "数据/记录/项目",
+    "数据/记录/母题/Good Idea.md"
+  ]
+}

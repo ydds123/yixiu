@@ -15,3 +15,6 @@ __pycache__/
 !数据/系统/索引/.gitkeep
 !数据/系统/缓存/.gitkeep
 !数据/系统/后台状态/.gitkeep
+
+# 安装包不进仓库
+*.dmg

@@ -1,5 +1,7 @@
 ---
 status: "已过期"
+topics:
+  - good-idea
 ---
 # 为 Good Idea 增加用户画像/记忆摘要层（类 ChatGPT 记忆）
 

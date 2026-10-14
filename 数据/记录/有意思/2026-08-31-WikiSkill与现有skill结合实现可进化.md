@@ -1,3 +1,8 @@
+---
+topics:
+  - good-idea
+---
+
 # WikiSkill与现有skill结合实现可进化
 
 ## 保存内容

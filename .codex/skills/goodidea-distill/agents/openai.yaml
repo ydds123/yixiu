@@ -1,0 +1,4 @@
+interface:
+  display_name: "Good Idea 辨析与发展"
+  short_description: "辨析闪念是否值得投入，按五项性质加工并建立关系，认领后保存"
+  default_prompt: "使用 $goodidea-distill 和我一起辨析这张闪念，先判断去向；需要加工时形成包含核心观点、论据、来源和关系的候选，等我认领后保存。"
